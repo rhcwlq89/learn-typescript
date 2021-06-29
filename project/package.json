@@ -1,5 +1,6 @@
 {
   "name": "project",
+  "type": "module",
   "version": "1.0.0",
   "description": "최종 프로젝트 폴더입니다",
   "main": "app.js",
@@ -11,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "typescript": "^4.3.4"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
